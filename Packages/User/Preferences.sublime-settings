@@ -1,0 +1,19 @@
+{
+	"ignored_packages": [
+	],
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Alabaster BG.sublime-color-scheme",
+	"font_face": "SF Mono Medium",
+	"vintage_start_in_command_mode": true,
+	"font_size": 10,
+	"auto_complete": true,
+	"line_numbers": true,
+	"fold_buttons": false,
+	"index_files": true,
+	"highlight_line": true,
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~",
+}

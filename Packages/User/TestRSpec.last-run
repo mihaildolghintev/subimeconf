@@ -1,0 +1,13 @@
+{
+	"command_hash":
+	{
+		"encoding": "utf-8",
+		"env":
+		{
+		},
+		"file_regex": "^rspec ([^ ]*\\.rb):(\\d+)() # (.+)$",
+		"shell_cmd": "( cd /home/mihaildolghintev/code/thief && /home/mihaildolghintev/.rbenv/bin/rbenv exec bundle exec rspec spec/lib/adapters/xf/argenta_bank_oauth_client_be_xf_spec.rb:14)",
+		"syntax": "Packages/TestRSpec/themes/RSpecConsole.sublime-syntax",
+		"working_dir": "/home/mihaildolghintev/code/thief",
+	},
+}

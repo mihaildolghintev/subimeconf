@@ -1,0 +1,7 @@
+{
+ "mark_issues_in_view": true,
+ "check_for_rvm": false,
+ "check_for_rbenv": true,
+ "show_auto_correct_warning": false,
+ "rbenv_path": "/home/mihaildolghintev/.rbenv/bin/rbenv",
+}

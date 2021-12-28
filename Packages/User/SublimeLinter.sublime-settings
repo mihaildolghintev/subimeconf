@@ -1,0 +1,9 @@
+// SublimeLinter Settings - User
+{
+ "gutter_theme": "Hands",
+ "paths": {
+        "linux": [ "/home/mihaildolghintev/.rbenv/shims"],
+        "osx": [],
+        "windows": []
+    },
+}
